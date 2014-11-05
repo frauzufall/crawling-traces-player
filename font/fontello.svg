@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2013 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="calendar-empty" unicode="&#xe809;" d="m71-79h786v572h-786v-572z m215 679v161q0 8-5 13t-13 5h-36q-8 0-13-5t-5-13v-161q0-8 5-13t13-5h36q8 0 13 5t5 13z m428 0v161q0 8-5 13t-13 5h-35q-8 0-13-5t-5-13v-161q0-8 5-13t13-5h35q8 0 13 5t5 13z m215 36v-715q0-29-22-50t-50-21h-786q-29 0-50 21t-21 50v715q0 29 21 50t50 21h72v54q0 36 26 63t63 26h36q37 0 63-26t26-63v-54h214v54q0 36 27 63t63 26h35q37 0 63-26t27-63v-54h71q29 0 50-21t22-50z" horiz-adv-x="928.6" />
+<glyph glyph-name="play" unicode="&#xe802;" d="m772 333l-741-412q-13-7-22-2t-9 20v822q0 14 9 20t22-2l741-412q13-7 13-17t-13-17z" horiz-adv-x="785.7" />
+<glyph glyph-name="stop" unicode="&#xe801;" d="m857 743v-786q0-14-10-25t-26-11h-785q-15 0-25 11t-11 25v786q0 14 11 25t25 11h785q15 0 26-11t10-25z" horiz-adv-x="857.1" />
+<glyph glyph-name="pause" unicode="&#xe800;" d="m857 743v-786q0-14-10-25t-26-11h-285q-15 0-25 11t-11 25v786q0 14 11 25t25 11h285q15 0 26-11t10-25z m-500 0v-786q0-14-10-25t-26-11h-285q-15 0-25 11t-11 25v786q0 14 11 25t25 11h285q15 0 26-11t10-25z" horiz-adv-x="857.1" />
+<glyph glyph-name="clock" unicode="&#xe80a;" d="m460 810q190 0 325-135t135-325t-135-325t-325-135t-325 135t-135 325t135 325t325 135z m0-820q150 0 255 106t105 254q0 150-105 255t-255 105q-148 0-254-105t-106-255q0-148 106-254t254-106z m36 620l0-244l150-150l-50-50l-170 170l0 274l70 0z" horiz-adv-x="920" />
+<glyph glyph-name="play-1" unicode="&#xe808;" d="m486 376q14-10 14-26q0-14-14-24l-428-266q-24-16-41-6t-17 40l0 514q0 30 17 40t41-6z" horiz-adv-x="500" />
+<glyph glyph-name="stop-1" unicode="&#xe803;" d="m526 650q74 0 74-64l0-470q0-66-74-66l-450 0q-76 0-76 66l0 470q0 36 18 50t58 14l450 0z" horiz-adv-x="600" />
+<glyph glyph-name="pause-1" unicode="&#xe807;" d="m440 700q90 0 90-64l0-570q0-66-90-66t-90 66l0 570q0 64 90 64z m-350 0q90 0 90-64l0-570q0-66-90-66t-90 66l0 570q0 64 90 64z" horiz-adv-x="530" />
+</font>
+</defs>
+</svg>
